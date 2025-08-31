@@ -1,0 +1,68 @@
+# ===============================
+# Flutter / Dart
+# ===============================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+flutter_*.png
+pubspec.lock
+
+# ===============================
+# Editor / IDE
+# ===============================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# ===============================
+# Android
+# ===============================
+.android/
+local.properties
+.gradle/
+**/android/key.properties
+gradle-wrapper.jar
+/app/*.keystore
+
+# ===============================
+# iOS / macOS
+# ===============================
+.ios/
+.macos/
+Pods/
+Podfile.lock
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/Generated.xcconfig
+Flutter/ephemeral/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# ===============================
+# Windows
+# ===============================
+windows/flutter/ephemeral/
+
+# ===============================
+# Linux
+# ===============================
+linux/flutter/ephemeral/
+
+# ===============================
+# Coverage / Logs
+# ===============================
+coverage/
+*.lcov
+*.log
+*.tmp
+*.swp
+
+# ===============================
+# Misc
+# ===============================
+.DS_Store
